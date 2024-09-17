@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. in Statistics, Columbia University, Dec 2023
+  * GPA: 3.906
+  * Relevant Courses: Neural Networks & Deep Learning, Advanced Machine Learning, Statistical Machine Learning, Applied Data Science, Time Series Analysis
+* B.S. in Mathematics, University of Michigan, Ann Arbor, Apr 2022
+  * GPA: 3.805
+  * Relevant Courses: Differential Equations, Introduction to Probability, Linear Algebra, Introduction to Theoretical Statistics, Probability Theory, Discrete Stochastic Processes
+* Mathematics, The Ohio State University, Apr 2020
+  * GPA: 3.955
+  * Relevant Courses: Programming in Java, Calculus 2, Calculus 3, Linear Algebra
 
-Work experience
+Teaching Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep 2023 - Dec 2023: Grader
+  * Columbia University, New York, NY
+  * Course: STATGR5702 Exploratory Data Analysis and Visualization
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming & Tools: Python, R, SQL, JavaScript, TensorFlow, PyTorch, AWS, Google Cloud Platform (GCP), Azure, Apache Spark (PySpark), Hadoop, Hive, Docker, Git, PowerBI, Linux
+* Languages: English (proficient), Mandarin (native)
 
-Publications
+Certifications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* AWS Certified Cloud Practitioner (June 2023)
+* Microsoft Certified: Azure Fundamentals (May 2024)
+
+Honors
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Dean's List (4 semesters)
+* University Honors (3 semesters)

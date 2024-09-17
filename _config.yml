@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haoyu (Jacob) He / Personal Website"
+title                    : "Jacob He Personal Website"
 title_separator          : "-"
 name                     : &name "Haoyu (Jacob) He"
-description              : &description "Master of Art in Statistics from Columbia University"
+description              : &description "Master of Art in Statistics from Columbia University, PhD Applicant"
 url                      : https://jacobhhy.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "haoyuprofile.jpeg"
   name             : "Haoyu (Jacob) He"
   pronouns         : # example: "she/her"  
-  bio              : "Master of Art in Statistics from Columbia University, with experience in data science and machine learning"
+  bio              : "hh2982 [at] columbia.edu"
   location         : "Los Angeles, CA"
-  employer         : "Columbia University"
+  employer         : #""
   uri              : # URL
-  email            : "hh2982@columbia.edu"
+  email            : #"hh2982@columbia.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
