@@ -39,6 +39,6 @@ Certifications
 
 Honors
 ======
-* Silver Medal - Kaggle
+* Silver Medal - Kaggle Competition
 * Dean's List - 4 semesters
 * University Honors - 3 semesters
