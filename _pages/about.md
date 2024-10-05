@@ -17,5 +17,4 @@ Education
 
 Research Interests
 ======
-My research focuses on advancing the fields of [Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing), [Large Language Models (LLMs)](https://en.wikipedia.org/wiki/Large_language_model), [information retrieval](https://en.wikipedia.org/wiki/Information_retrieval), and [trustworthy AI](https://en.wikipedia.org/wiki/Trustworthy_AI). 
-I am particularly focused on developing more reliable and intelligent LLM agents. My current work explores efficient alternatives and advancements to Retrieval-Augmented Generation (RAG), leveraging advanced information retrieval techniques to enhance LLM performance. Additionally, I am dedicated to unraveling the inner workings of LLMs to contribute to trustworthy AI systems. My work aims to deepen our understanding of these models and create more transparent, explainable, and dependable AI technologies for safe real-world deployment.
+My research is focused on advancing the fields of Natural Language Processing (NLP), Large Language Models (LLMs), Information Retrieval, Trustworthy AI, and Multimodal LLMs. 
