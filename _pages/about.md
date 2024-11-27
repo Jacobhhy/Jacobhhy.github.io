@@ -17,4 +17,4 @@ Education
 
 Research Interests
 ======
-My research is focused on advancing the fields of Natural Language Processing (NLP), Large Language Models (LLMs), Information Retrieval, Trustworthy AI, and Multimodal LLMs. 
+My research focuses on advancing the field of Natural Language Processing (NLP), with specific interests in LLM agents, information retrieval, trustworthy AI, and multimodal large language models (LLMs).

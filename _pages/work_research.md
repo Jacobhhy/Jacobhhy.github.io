@@ -14,9 +14,9 @@ Research Experience
 - *Location:* San Francisco, CA and New York, NY
 - *Duration:* June 2023 -- June 2024
 
-- Large Language Models (LLMs) and Natural Language Processing
+- Natural Language Processing specializing in Large Language Models (LLMs)
   - Conducted in-depth research on transformer architectures, Large Language Models, focusing on structural innovations.
-  - EEngineered an automated system to process and analyze 500+ unstructured documents using Python and the Unstructured library, enhancing information extraction from diverse formats.
+  - Engineered an automated system to process and analyze 500+ unstructured documents using Python and the Unstructured library, enhancing information extraction from diverse formats.
   - Spearheaded the development of a Retrieval-Augmented Generation (RAG)-based AI application, integrating multiple LLMs via LangChain to explore new approaches for improved performance and versatility.
   - Advanced the field of model optimization by fine-tuning open-source LLMs (e.g., Llama) using Parameter-Efficient Fine-Tuning (PEFT) and Quantized Low-Rank Adaptation (QLoRA) techniques. Achieved a significant 30% accuracy improvement.
   - Pioneered advanced prompt engineering methodologies, conducting trend analysis to forecast over 30 project directions to improve human-AI interaction of language models.
