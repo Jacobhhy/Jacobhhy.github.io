@@ -39,6 +39,6 @@ Certifications
 
 Honors
 ======
-* Silver Medal - Kaggle Competition
+* Silver Medal (Top 2%) – Kaggle Competition: Learning Agency Lab Automated Essay Scoring 2.0
 * Dean's List - 4 semesters
 * University Honors - 3 semesters
