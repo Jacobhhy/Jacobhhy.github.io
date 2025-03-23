@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Haoyu (Jacob) He, a recent graduate with a Master of Art in Statistics from [Columbia University](https://stat.columbia.edu/). I have just completed a one-year internship at the [World Wildlife Fund (WWF)](https://www.worldwildlife.org/), where I focused on Large Language Models (LLMs) and data lake development under the supervision of [Dave Thau](https://www.worldwildlife.org/experts/dave-thau). Currently seeking a CS/AI PhD position for Fall 2025.
+Welcome! I'm Haoyu (Jacob) He, a recent graduate with a Master of Arts degree in Statistics from [Columbia University](https://stat.columbia.edu/). I have just completed a one-year internship at the [World Wildlife Fund (WWF)](https://www.worldwildlife.org/), where I focused on Large Language Models (LLMs) and data lake development under the supervision of [Dave Thau](https://www.worldwildlife.org/experts/dave-thau). Currently seeking a CS/AI PhD position for Fall 2025.
 
 Education
 ======
