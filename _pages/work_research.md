@@ -42,4 +42,4 @@ Professional Experience
 - Implemented robust data mining, data processing, and data modeling techniques using Python on a sales dataset with over 50,000 rows, resulting in a 20% increase in predictive accuracy.
 - Conducted data analysis of the company's logistics data using Excel, and delivered actionable insights and strategic recommendations through visualizations with Power BI, resulting in a 15% reduction in operational costs.
 
- * Supervisor: Shuang Du
+# * Supervisor: Shuang Du
